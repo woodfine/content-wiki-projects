@@ -1,0 +1,22 @@
+# SIS_V7_Research_Projects.txt
+
+**Entry 001**
+**Corporate Author:** Cushman & Wakefield Canada
+**Year:** 2026
+**Title:** Canadian Cap Rate & Capital Markets Report Q4 2025
+**Quote (1:1 Match):** "Regarding office, the market is far from uniform, presenting a diverse and complex landscape. High performing, in demand office properties in prime locations continue to lead the pack, while over half of the market vacancy is concentrated within a small fraction of the overall inventory."
+**Tags:** `[Theme_C ESG - Woodfine Buildings]`, `[Glossary: Professional-Grade Regional Real Estate]`
+
+**Entry 004**
+**Corporate Author:** CBRE Research
+**Year:** 2026
+**Title:** Canada Real Estate Market Outlook 2026
+**Quote (1:1 Match):** "Amidst heightening geopolitical tensions and global volatility, Canada’s safe haven status remains highly coveted... The Canadian economy is expected to begin a phase of sustained growth in 2026, spurring increased occupier urgency and keeping real estate fundamentals sound and steady."
+**Tags:** `[Theme_D "MIX-OF-USE" (Product-Market Fit)]`, `[Glossary: Regional Markets]`
+
+**Entry 006**
+**Corporate Author:** Mordor Intelligence
+**Year:** 2026
+**Title:** Office Real Estate Market Global Outlook
+**Quote (1:1 Match):** "Demand now clusters in Grade A towers that blend smart-building systems, wellness amenities, and strong environmental credentials, while legacy inventory faces rising vacancy."
+**Tags:** `[Theme_C ESG - Woodfine Buildings]`, `[Glossary: Dual-Mandate Building Certifications]`
