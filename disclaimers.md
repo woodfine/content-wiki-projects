@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Disclaimers"
 slug: disclaimers
-category: governance
+category: root
 short_description: "Disclosure, liability, and forward-looking statement disclaimers for the Woodfine Projects wiki."
 status: active
 last_edited: 2026-07-09

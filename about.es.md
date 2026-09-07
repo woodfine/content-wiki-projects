@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "Acerca de"
 slug: about
-category: governance
+category: root
 status: stub
 last_edited: 2026-08-26
 editor: pointsav-engineering
